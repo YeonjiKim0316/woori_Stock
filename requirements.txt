@@ -4,4 +4,3 @@ finance-datareader
 matplotlib
 plotly
 html5lib
-bs4
